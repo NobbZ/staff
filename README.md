@@ -1,6 +1,6 @@
 # Staff
 
-TODO: Write a gem description
+A ruby-roguelike framework
 
 ## Installation
 
